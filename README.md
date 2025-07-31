@@ -1,6 +1,4 @@
-# Writing the README content correctly to a file
-
-readme_content = """# 🧮 Maths Agentic AI – Agentic RAG-Based Math Tutor
+ 🧮 Maths Agentic AI – Agentic RAG-Based Math Tutor
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)]()
