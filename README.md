@@ -64,7 +64,10 @@ cd ../frontend
 npm install
 npm start
 ```
-flowchart LR
+
+Flowchart LR
+------------
+
 ```plaintext
 User[User Question] --> G[Guardrails]
 G -->|Arithmetic| A[Direct Solver]
@@ -83,8 +86,10 @@ Screenshots
 <img width="1198" height="281" alt="image" src="https://github.com/user-attachments/assets/efaf8bd0-32ce-4d07-97c7-67a31a810ad7" />
 <img width="1394" height="847" alt="image" src="https://github.com/user-attachments/assets/d79f0ad2-9d9e-4f7b-b720-5880d25a67bb" />
 <img width="1280" height="249" alt="image" src="https://github.com/user-attachments/assets/731fbc50-a85e-40c9-a9b8-f6e8ebcfc11f" />
+---------------
 
 💡 Future Enhancements
+-----------------------
 ```plaintext
 🔹 Add DSPy-based learning from user feedback
 
@@ -95,7 +100,9 @@ Screenshots
 🔹 Scale FAISS to cloud solutions like Pinecone or Weaviate
 
 ```
+
 🛠 Tech Stack
+--------------
 ```plaintext
 Backend: FastAPI, FAISS, HuggingFace Embeddings, SQLite
 
