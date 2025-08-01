@@ -99,11 +99,8 @@ Screenshots
 -----------------------
 ```plaintext
 🔹 Add DSPy-based learning from user feedback
-
 🔹 Deploy MCP server for real-time web search
-
 🔹 Dockerize backend and frontend for easy deployment
-
 🔹 Scale FAISS to cloud solutions like Pinecone or Weaviate
 
 ```
@@ -112,10 +109,7 @@ Screenshots
 --------------
 ```plaintext
 Backend: FastAPI, FAISS, HuggingFace Embeddings, SQLite
-
 Frontend: ReactJS, Axios
-
 AI Search: MCP Server (FastAPI microservice)
-
 Dataset: MathQA + Custom Math Problems
 ```
